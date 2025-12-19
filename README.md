@@ -6,6 +6,7 @@ Given an orientable surface of genus g >=3 and n punctures, construct a finite s
 
 - Visualization of the triangulation
 
+![Toro][Fig_Toro_3-5]
 
 -------
 ## Authors
